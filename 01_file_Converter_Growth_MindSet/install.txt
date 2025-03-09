@@ -1,0 +1,23 @@
+pip3 install streamlit pandas
+
+
+first upgrade this code 
+python.exe -m pip install --upgrade pip
+
+
+how to run 
+streamlit run file-converter.py			file-converter is file name
+
+
+pip3 install openpyxl
+
+
+
+last is before deploy on streamlit
+CREATE FILE => requirements.txt
+than copy paste
+pandas
+openpyxl
+streamlit
+thank run command on terminal
+pip install -r requirements.txt
