@@ -8,3 +8,6 @@ run visual environment
 
 than run
 streamlit run main.py
+
+when you streamlit deploy please run
+pip freeze > requirements.txt
